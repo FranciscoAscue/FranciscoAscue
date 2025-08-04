@@ -2,7 +2,7 @@
 <h3 align="center">Bioinformatician, data scientist, and biologist.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscoascue" alt="franciscoascue" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **Assistant Professor at UNSAAC.**
 
 - 🌱 I’m currently learning **Machine Learning, Bioinformatics workflow**
